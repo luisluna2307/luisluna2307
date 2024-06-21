@@ -12,7 +12,7 @@
 ## Sobre mí
 - **Nombre:** Luis Alberto Luna Arana
 - **Ocupación:** Estudiante
-- **Lugar de residencia:** Prosperina, Guayaquil
+- **Lugar de residencia:** Guayaquil, Ecuador
 - **Sitio web:** [Tu sitio web]
   
 Soy un estudiante dedicado con una gran pasión por el desarrollo de software y la tecnología. Estoy constantemente aprendiendo y mejorando mis habilidades para contribuir a proyectos innovadores.
@@ -27,12 +27,12 @@ Soy un estudiante dedicado con una gran pasión por el desarrollo de software y 
 ## Proyectos Recientes
 ### [Nombre del Proyecto 1]
 - **Descripción:** Curriculum Vitae
-- **Tecnologías usadas:** [Tecnologías]
+- **Tecnologías usadas:** [HTML],[CSS]
 - **Repositorio:** [Enlace al repositorio]
 
 ### [Nombre del Proyecto 2]
 - **Descripción:** Landing Page sobre cursos en linea
-- **Tecnologías usadas:** [Tecnologías]
+- **Tecnologías usadas:** [HTML],[CSS],[Javascript]
 - **Repositorio:** [Enlace al repositorio]
 
 ## Intereses
@@ -43,8 +43,7 @@ Soy un estudiante dedicado con una gran pasión por el desarrollo de software y 
 
 ## Cómo Contactarme
 - **Correo Electrónico:** laluna@espol.edu.ec
-- **LinkedIn:** [Tu perfil de LinkedIn]
-- **Twitter:** [Tu perfil de Twitter]
+- **LinkedIn:** [\[Luis Luna\]](https://ec.linkedin.com/in/luisluna2307)
 - **Sitio web:** [Tu sitio web]
 
 ¡Gracias por visitar mi perfil! No dudes en contactarme si tienes alguna pregunta o si deseas colaborar en algún proyecto.
