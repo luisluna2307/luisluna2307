@@ -1,6 +1,7 @@
 # Luis Alberto Luna Arana
 
 ¡Hola! Bienvenido a mi perfil de GitHub. Soy Luis Alberto Luna Arana, estudiante y apasionado por la tecnología y la programación. Aquí puedes encontrar información sobre mí, mis proyectos y mis intereses.
+![programador](image.png)
 
 ## Contenido
 * [Sobre mí](#sobre-mí)
@@ -15,11 +16,12 @@
 - **Lugar de residencia:** Guayaquil, Ecuador
 - **Sitio web:** [Tu sitio web]
   
-Soy un estudiante dedicado con una gran pasión por el desarrollo de software y la tecnología. Estoy constantemente aprendiendo y mejorando mis habilidades para contribuir a proyectos innovadores.
+Soy un estudiante de la Escuela Superior Politecnica del Litoral (ESPOL) dedicado con una gran pasión por el desarrollo de software y la tecnología. Estoy constantemente aprendiendo y mejorando mis habilidades para contribuir a proyectos innovadores.
+![espol](image-1.png)
 
 ## Habilidades
-- **Lenguajes de Programación:** Python, JavaScript, Java.
-- **Desarrollo Web:** HTML, CSS, React, Node.js
+- **Lenguajes de Programación:** Python, Java.
+- **Desarrollo Web:** HTML, CSS
 - **Bases de Datos:** MySQL
 - **Herramientas y Tecnologías:** Git
 - **Metodologías:** Agile, Scrum
@@ -28,12 +30,12 @@ Soy un estudiante dedicado con una gran pasión por el desarrollo de software y 
 ### [Nombre del Proyecto 1]
 - **Descripción:** Curriculum Vitae
 - **Tecnologías usadas:** [HTML],[CSS]
-- **Repositorio:** [Enlace al repositorio]
+- **Repositorio:** [\[Enlace al CV\]](https://github.com/luisluna2307/luisluna2307.github.io)
 
 ### [Nombre del Proyecto 2]
 - **Descripción:** Landing Page sobre cursos en linea
 - **Tecnologías usadas:** [HTML],[CSS],[Javascript]
-- **Repositorio:** [Enlace al repositorio]
+- **Repositorio:** [\[Enlace al Landing Page\]](https://github.com/luisluna2307/landingPage)
 
 ## Intereses
 - **Desarrollo de Software**
