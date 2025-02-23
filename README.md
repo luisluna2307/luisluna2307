@@ -1,62 +1,27 @@
-# Luis Alberto Luna Arana
+# ¡Hola! Soy Luis Luna 👋
 
-¡Hola! Bienvenido a mi perfil de GitHub. Soy Luis Alberto Luna Arana, estudiante y apasionado por la tecnología y la programación. Aquí puedes encontrar información sobre mí, mis proyectos y mis intereses.
-<img src="image.png" alt="programador" width="300" />
+Soy un estudiante de Ingeniería en Ciencias de la Computación en la Escuela Superior Politécnica del Litoral (ESPOL) en Ecuador. Apasionado por el desarrollo de software y siempre en busca de nuevos desafíos y oportunidades para aprender.
 
-## Contenido
+## 🔧 Tecnologías y Herramientas
 
-- [Sobre mí](#sobre-mí)
-- [Habilidades](#habilidades)
-- [Proyectos Recientes](#proyectos-recientes)
-- [Intereses](#intereses)
-- [Cómo Contactarme](#cómo-contactarme)
+- **Lenguajes de Programación:** Python, Java
 
-## Sobre mí
+## 📚 Educación
 
-- **Nombre:** Luis Alberto Luna Arana
-- **Ocupación:** Estudiante
-- **Lugar de residencia:** Guayaquil, Ecuador
-- **Sitio web:** [Tu sitio web]
+- **Ingeniería en Ciencias de la Computación**  
+  Escuela Superior Politécnica del Litoral (ESPOL)  
+  *2021 - Presente*
 
-Soy un estudiante de la Escuela Superior Politecnica del Litoral (ESPOL) dedicado con una gran pasión por el desarrollo de software y la tecnología. Estoy constantemente aprendiendo y mejorando mis habilidades para contribuir a proyectos innovadores.
-<img src="image-1.png" alt="espol" width="300" />
+## 🌱 Cursos y Certificaciones
 
-## Habilidades
+- **Lógica de Programación con JavaScript**  
+  Alura Latam - Oracle Next Education  
+  *Febrero 2025*
 
-- **Lenguajes de Programación:** Python, Java.
-- **Desarrollo Web:** HTML, CSS
-- **Bases de Datos:** MySQL
-- **Herramientas y Tecnologías:** Git
-- **Metodologías:** Agile, Scrum
-
-## Proyectos Recientes
-
-### Curriculum Vitae
-
-- **Descripción:** Curriculum Vitae
-- **Tecnologías usadas:** [HTML],[CSS]
-- **Repositorio:** [\[Enlace al CV\]](https://github.com/luisluna2307/curriculum)
-
-### Landing Page
-
-- **Descripción:** Landing Page sobre cursos en linea
-- **Tecnologías usadas:** [HTML],[CSS],[Javascript]
-- **Repositorio:** [\[Enlace al Landing Page\]](https://github.com/luisluna2307/landingPage)
-
-## Intereses
-
-- **Desarrollo de Software**
-- **Inteligencia Artificial**
-- **Ciberseguridad**
-- **Internet de las Cosas (IoT)**
-
-## Cómo Contactarme
+## 📫 Contáctame
 
 - **Correo Electrónico:** laluna@espol.edu.ec
-- **LinkedIn:**
-  <a href="https://ec.linkedin.com/in/luisluna2307" target="_blank">
-  <img src="https://static.vecteezy.com/system/resources/previews/018/930/480/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="LinkedIn de Luis Luna" width="30" />
-  </a>
-- **Sitio web:** [Tu sitio web]
+- **LinkedIn:** [linkedin.com/in/luisluna2307](https://www.linkedin.com/in/luisluna2307/)
+- **GitHub:** [github.com/luisluna2307](https://github.com/luisluna2307)
 
-¡Gracias por visitar mi perfil! No dudes en contactarme si tienes alguna pregunta o si deseas colaborar en algún proyecto.
+¡Gracias por visitar mi perfil!
