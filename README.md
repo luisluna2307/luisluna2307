@@ -37,8 +37,7 @@
 
 ### 🔧 Herramientas & DevOps:
 <p align="center">
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git-Dark.svg" width="50"/>
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker-Dark.svg" width="50"/>
+  <img src="https://www.svgrepo.com/show/314031/git.svg" width="50"/>
 </p>
 
 ---
@@ -53,7 +52,7 @@
 📅 *2025 - Presente*  
 
 <p align="center">
-  <img src="Insignia%20Challenge%20Amigo%20Secreto%20ONE.jpg" width="150"/>
+  <img src="Insignia%20Challenge%20Amigo%20Secreto%20ONE.jpg" width="250"/>
 </p>
 
 ---
@@ -63,26 +62,39 @@
 🏫 *Alura Latam - Oracle Next Education*  
 📅 *Marzo 2025*  
 🔗 [Ver certificación](https://app.aluracursos.com/degree/certificate/8b315a99-8ada-4049-a46c-048d7e7eac31?lang)
-![Oracle](https://www.svgrepo.com/show/473740/oracle.svg)  
+<a href="https://www.svgrepo.com/show/473740/oracle.svg" target="_blank">
+  <img src="https://www.svgrepo.com/show/473740/oracle.svg" width="50"/>
+</a>
 
 📝 **Formación Desarrollo Personal G8 - ONE**  
 🏫 *Alura Latam - Oracle Next Education*  
 📅 *Marzo 2025*  
 🔗 [Ver certificación](https://app.aluracursos.com/degree/certificate/36eaaf43-8a08-4207-9934-f0e9cb5addb2?lang)
-![Oracle](https://www.svgrepo.com/show/473740/oracle.svg)  
+<a href="https://www.svgrepo.com/show/473740/oracle.svg" target="_blank">
+  <img src="https://www.svgrepo.com/show/473740/oracle.svg" width="50"/>
+</a>
 
 📝 **Formación Principiante en Programación G8 - ONE**  
 🏫 *Alura Latam - Oracle Next Education*  
 📅 *Marzo 2025*  
 🔗 [Ver certificación](https://app.aluracursos.com/degree/certificate/88c1b25a-3048-494f-859c-1c4f6591f8bd?lang)
-![Oracle](https://www.svgrepo.com/show/473740/oracle.svg)  
+<a href="https://www.svgrepo.com/show/473740/oracle.svg" target="_blank">
+  <img src="https://www.svgrepo.com/show/473740/oracle.svg" width="50"/>
+</a>
 
 ---
 
 ## 💌 Contáctame
-📧 <img src="https://www.svgrepo.com/show/443244/brand-microsoft-outlook.svg" width="50"/> **Correo Electrónico:** laluna@espol.edu.ec  
-👨‍💼 <img src="https://www.svgrepo.com/show/127389/linkedin-logotype.svg" width="50"/> **LinkedIn:** [linkedin.com/in/luisluna2307](https://www.linkedin.com/in/luisluna2307/)  
-🐝 <img src="https://www.svgrepo.com/show/341847/github.svg" width="50"/> **GitHub:** [github.com/luisluna2307](https://github.com/luisluna2307)  
+<a href="mailto:laluna@espol.edu.ec">
+  <img src="https://www.svgrepo.com/show/443244/brand-microsoft-outlook.svg" width="50"/>
+</a> **Correo Electrónico:** laluna@espol.edu.ec  
+<a href="https://www.linkedin.com/in/luisluna2307">
+  <img src="https://www.svgrepo.com/show/127389/linkedin-logotype.svg" width="50"/>
+</a> **LinkedIn:** [linkedin.com/in/luisluna2307](https://www.linkedin.com/in/luisluna2307/)  
+<a href="https://github.com/luisluna2307">
+  <img src="https://www.svgrepo.com/show/341847/github.svg" width="50"/>
+</a> **GitHub:** [github.com/luisluna2307](https://github.com/luisluna2307)
+
 
 ---
 
