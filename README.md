@@ -25,3 +25,5 @@ Soy un estudiante de Ingeniería en Ciencias de la Computación en la Escuela Su
 - **GitHub:** [github.com/luisluna2307](https://github.com/luisluna2307)
 
 ¡Gracias por visitar mi perfil!
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7310701729786814465" height="399" width="504" frameborder="0" allowfullscreen="" title="Publicación integrada"></iframe>
