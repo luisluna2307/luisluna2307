@@ -61,39 +61,41 @@
 📝 **Formación Lógica de Programación con JavaScript**  
 🏫 *Alura Latam - Oracle Next Education*  
 📅 *Marzo 2025*  
-🔗 [Ver certificación](https://app.aluracursos.com/degree/certificate/8b315a99-8ada-4049-a46c-048d7e7eac31?lang)
+🔗 [Ver certificación](https://app.aluracursos.com/degree/certificate/8b315a99-8ada-4049-a46c-048d7e7eac31?lang)  
 <a href="https://www.svgrepo.com/show/473740/oracle.svg" target="_blank">
-  <img src="https://www.svgrepo.com/show/473740/oracle.svg" width="50"/>
+  <img src="https://www.svgrepo.com/show/473740/oracle.svg" width="50" style="float:left; margin-right: 10px;"/>
 </a>
 
 📝 **Formación Desarrollo Personal G8 - ONE**  
 🏫 *Alura Latam - Oracle Next Education*  
 📅 *Marzo 2025*  
-🔗 [Ver certificación](https://app.aluracursos.com/degree/certificate/36eaaf43-8a08-4207-9934-f0e9cb5addb2?lang)
+🔗 [Ver certificación](https://app.aluracursos.com/degree/certificate/36eaaf43-8a08-4207-9934-f0e9cb5addb2?lang)  
 <a href="https://www.svgrepo.com/show/473740/oracle.svg" target="_blank">
-  <img src="https://www.svgrepo.com/show/473740/oracle.svg" width="50"/>
+  <img src="https://www.svgrepo.com/show/473740/oracle.svg" width="50" style="float:left; margin-right: 10px;"/>
 </a>
 
 📝 **Formación Principiante en Programación G8 - ONE**  
 🏫 *Alura Latam - Oracle Next Education*  
 📅 *Marzo 2025*  
-🔗 [Ver certificación](https://app.aluracursos.com/degree/certificate/88c1b25a-3048-494f-859c-1c4f6591f8bd?lang)
+🔗 [Ver certificación](https://app.aluracursos.com/degree/certificate/88c1b25a-3048-494f-859c-1c4f6591f8bd?lang)  
 <a href="https://www.svgrepo.com/show/473740/oracle.svg" target="_blank">
-  <img src="https://www.svgrepo.com/show/473740/oracle.svg" width="50"/>
+  <img src="https://www.svgrepo.com/show/473740/oracle.svg" width="50" style="float:left; margin-right: 10px;"/>
 </a>
+
 
 ---
 
 ## 💌 Contáctame
-<a href="mailto:laluna@espol.edu.ec">
+<a href="mailto:laluna@espol.edu.ec" style="display: inline-block; margin-right: 10px;">
   <img src="https://www.svgrepo.com/show/443244/brand-microsoft-outlook.svg" width="50"/>
-</a> **Correo Electrónico:** laluna@espol.edu.ec  
-<a href="https://www.linkedin.com/in/luisluna2307">
+</a>  
+<a href="https://www.linkedin.com/in/luisluna2307" style="display: inline-block; margin-right: 10px;">
   <img src="https://www.svgrepo.com/show/127389/linkedin-logotype.svg" width="50"/>
-</a> **LinkedIn:** [linkedin.com/in/luisluna2307](https://www.linkedin.com/in/luisluna2307/)  
-<a href="https://github.com/luisluna2307">
+</a>  
+<a href="https://github.com/luisluna2307" style="display: inline-block;">
   <img src="https://www.svgrepo.com/show/341847/github.svg" width="50"/>
-</a> **GitHub:** [github.com/luisluna2307](https://github.com/luisluna2307)
+</a>
+
 
 
 ---
