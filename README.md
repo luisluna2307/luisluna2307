@@ -7,29 +7,39 @@
 🚀 En constante aprendizaje y en búsqueda de nuevos desafíos.  
 
 ### 🔥 Tecnologías destacadas:
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" width="50"/>  
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" width="50"/>  
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/AWS-Dark.svg" width="50"/>  
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg" width="50"/>  
-<img src="https://www.svgrepo.com/show/355152/oracle.svg" width="50"/>  
+<p align="center">
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" width="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" width="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/AWS-Dark.svg" width="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg" width="50"/>
+  <img src="https://www.svgrepo.com/show/355152/oracle.svg" width="50"/>
+</p>
 
 ---
 
 ## 🛠️ Tecnologías y Herramientas
 
 ### 👨‍💻 Lenguajes de Programación:
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" width="50"/>  
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" width="50"/>  
+<p align="center">
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" width="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" width="50"/>
+</p>
 
 ### ☁️ Cloud & Backend:
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/AWS-Dark.svg" width="50"/>   
+<p align="center">
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/AWS-Dark.svg" width="50"/>
+</p>
 
 ### 🟢 Bases de Datos:
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg" width="50"/>  
+<p align="center">
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg" width="50"/>
+</p>
 
 ### 🔧 Herramientas & DevOps:
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git-Dark.svg" width="50"/>  
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker-Dark.svg" width="50"/>  
+<p align="center">
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git-Dark.svg" width="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker-Dark.svg" width="50"/>
+</p>
 
 ---
 
@@ -43,7 +53,7 @@
 📅 *2025 - Presente*  
 
 <p align="center">
-  <img src="Insignia%20Challenge%20Amigo%20Secreto%20ONE.jpg" width="75"/>
+  <img src="Insignia%20Challenge%20Amigo%20Secreto%20ONE.jpg" width="150"/>
 </p>
 
 ---
@@ -53,19 +63,19 @@
 🏫 *Alura Latam - Oracle Next Education*  
 📅 *Marzo 2025*  
 🔗 [Ver certificación](https://app.aluracursos.com/degree/certificate/8b315a99-8ada-4049-a46c-048d7e7eac31?lang)
-<img src="https://www.svgrepo.com/show/473740/oracle.svg" width="50"/>    
+![Oracle](https://www.svgrepo.com/show/473740/oracle.svg)  
 
 📝 **Formación Desarrollo Personal G8 - ONE**  
 🏫 *Alura Latam - Oracle Next Education*  
 📅 *Marzo 2025*  
 🔗 [Ver certificación](https://app.aluracursos.com/degree/certificate/36eaaf43-8a08-4207-9934-f0e9cb5addb2?lang)
-<img src="https://www.svgrepo.com/show/473740/oracle.svg" width="50"/>    
+![Oracle](https://www.svgrepo.com/show/473740/oracle.svg)  
 
 📝 **Formación Principiante en Programación G8 - ONE**  
 🏫 *Alura Latam - Oracle Next Education*  
 📅 *Marzo 2025*  
 🔗 [Ver certificación](https://app.aluracursos.com/degree/certificate/88c1b25a-3048-494f-859c-1c4f6591f8bd?lang)
-<img src="https://www.svgrepo.com/show/473740/oracle.svg" width="50"/>    
+![Oracle](https://www.svgrepo.com/show/473740/oracle.svg)  
 
 ---
 
