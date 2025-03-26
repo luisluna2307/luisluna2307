@@ -50,10 +50,12 @@
 🎓 **Especialización en Data Science / Científico de Datos en formación**  
 📍 *Oracle Next Education (ONE)*  
 📅 *2025 - Presente*  
+🔗 [Mira mi publicación destacada de ONE](https://www.linkedin.com/feed/update/urn:li:share:7310701729786814465)
 
 <p align="center">
-  <img src="Insignia%20Challenge%20Amigo%20Secreto%20ONE.jpg" width="250"/>
+  <img src="Insignia%20Challenge%20Amigo%20Secreto%20ONE.jpg" width="350"/>
 </p>
+
 
 ---
 
@@ -86,15 +88,18 @@
 ---
 
 ## 💌 Contáctame
-<a href="mailto:laluna@espol.edu.ec" style="display: inline-block; margin-right: 10px;">
-  <img src="https://www.svgrepo.com/show/443244/brand-microsoft-outlook.svg" width="50"/>
-</a>  
-<a href="https://www.linkedin.com/in/luisluna2307" style="display: inline-block; margin-right: 10px;">
-  <img src="https://www.svgrepo.com/show/127389/linkedin-logotype.svg" width="50"/>
-</a>  
-<a href="https://github.com/luisluna2307" style="display: inline-block;">
-  <img src="https://www.svgrepo.com/show/341847/github.svg" width="50"/>
-</a>
+<p align="center">
+  <a href="mailto:laluna@espol.edu.ec" style="display: inline-block; margin-right: 15px;">
+    <img src="https://www.svgrepo.com/show/443244/brand-microsoft-outlook.svg" width="50"/>
+  </a>
+  <a href="https://www.linkedin.com/in/luisluna2307" style="display: inline-block; margin-right: 15px;">
+    <img src="https://www.svgrepo.com/show/127389/linkedin-logotype.svg" width="50"/>
+  </a>
+  <a href="https://github.com/luisluna2307" style="display: inline-block;">
+    <img src="https://www.svgrepo.com/show/341847/github.svg" width="50"/>
+  </a>
+</p>
+
 
 
 
