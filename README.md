@@ -3,7 +3,7 @@
 ## 🚀 Sobre mí
 
 💻 Estudiante de **Ingeniería en Ciencias de la Computación** en la **Escuela Superior Politécnica del Litoral (ESPOL)** - Ecuador.  
-📊 Apasionado por el **Data Science, Cloud Computing, IA y Backend Development**.  
+📊 Apasionado por el **Data Science y Backend Development**.  
 🚀 En constante aprendizaje y en búsqueda de nuevos desafíos.  
 
 ### 🔥 Tecnologías destacadas:
