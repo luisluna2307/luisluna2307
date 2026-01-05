@@ -10,9 +10,6 @@
 <p align="center">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" width="50"/>
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" width="50"/>
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/AWS-Dark.svg" width="50"/>
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg" width="50"/>
-  <img src="https://www.svgrepo.com/show/355152/oracle.svg" width="50"/>
 </p>
 
 ---
@@ -23,16 +20,6 @@
 <p align="center">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" width="50"/>
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" width="50"/>
-</p>
-
-### ☁️ Cloud & Backend:
-<p align="center">
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/AWS-Dark.svg" width="50"/>
-</p>
-
-### 🟢 Bases de Datos:
-<p align="center">
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg" width="50"/>
 </p>
 
 ### 🔧 Herramientas & DevOps:
